@@ -96,6 +96,7 @@ Country:
 |Saiprasad Balasubramanian|Software Engineer    |Mumbai, India|Python, Flask, Django, SQL, JavaScript, Docker|On-site, Remote, Relocation|sai.cosmo@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/saiprasadbala)|
 | Mehul Patel|Technical Evangelist, DevOps Engineer, Community Manager | Nashik, India |Docker, CI/CD, Kubernetes, Version Control, AWS, GCP, Linux, Tech Speaker | Remote |mehulpofficial@gmail.com <br> [LinkedIn](http://www.linkedin.com/in/rowdymehul) |
 | Shubham Kapoor | Full stack Developer | India |    Angular, Node, Rest, javascript, HTML, CSS, Java Microservice, Spring  |            :heavy_check_mark: | shubhamkapoor9798@gmail.com|
+|Diksha Srivastava | Java Full Stack | India <br> (open to relocate) | Java, Microservice, Spring, HTML, CSS| ✔️ | diksha11sri@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/diksha11/) |
 | Nirmal Silwal| Python, Deep Learning/ML, Software Engineer |Mumbai, India (open to relocate) | Python, Flask, DeepLearning, Machine Learning, HTML, CSS, Bootstrap, Pytorch, Keras, Linux, Hadoop, AWS |On site, Relocation | nirmaldeepsil.11@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/nirmal-silwal/) |
 |Vishwanath Singh| Front end engineer| Gurgaon, India |Web and mobile apps |Remote or Onsite|+91-8373942818,schumi.offi2124@gmail.com|
 | Chetan Kumar  | Full stack Developer | India | React, Redux, Express, Node, JavaScript, HTML, CSS, GraphQl, Rest API, Jest, Mocha, Boostrap, AWS | :heavy_check_mark: | chetansain86@gmail.com | <br> [LinkedIn](https://www.linkedin.com/in/chetan-kumar86) |
